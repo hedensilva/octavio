@@ -10,6 +10,10 @@
   </ol>
 </p>
 <p>
-  O aluno terá que assistir às playlists a seguir.<br>
+  O aluno deve que assistir às playlists a seguir.<br>
   Um nova AVATEC será aplicada na escola, no dia 22/12, à partir das 8h
+</p>
+<h3>Playlist de videos sobre Lógica de Programação</h3>
+<p>
+  https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
 </p>
