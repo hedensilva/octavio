@@ -38,3 +38,11 @@
 <p>
   https://drive.google.com/file/d/1z4BhgwfW7bV4TdDw4Gy1Oa_U2Xu8i-SR/view?usp=sharing
 </p>
+<h3>Gabarito HTML/CSS</h3>
+<p>
+  https://drive.google.com/file/d/12I0FLZ9ex3MxH1teL3igZfYarbSMfaOR/view?usp=sharing
+</p>
+<h3>Gabarito Lógica de Programação</h3>
+<p>
+  https://drive.google.com/file/d/1QTVc5EF1ORV_e15ILjfEYbljRtA8o5cc/view?usp=sharing
+</p>
