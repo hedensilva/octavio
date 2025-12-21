@@ -12,7 +12,7 @@
 <p>
   O aluno deve que assistir às playlists a seguir.<br>
   Também está disponivel questionários para exercitar o conteúdo. O gabarito será adicionado no dia 20/12<br>
-  Um nova AVATEC será aplicada na escola, no dia 22/12, à partir das 8h
+  Um nova AVATEC será aplicada na escola, no dia 22/12, à partir das 9h
 </p>
 <h3>Playlist de videos sobre Lógica de Programação</h3>
 <p>
