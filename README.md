@@ -46,3 +46,20 @@
 <p>
   https://drive.google.com/file/d/1QTVc5EF1ORV_e15ILjfEYbljRtA8o5cc/view?usp=sharing
 </p>
+<h2>AVATEC</h2>
+<p>
+  Lógica de Programação<br>
+  https://forms.gle/UACj5hFZcVRssoxW6
+</p>
+<p>
+  HTML/CSS<br>
+  https://forms.gle/KfsQJR5rSPAKNRDG7
+</p>
+<p>
+  Arquitetura e Manutenção de Computadores<br>
+  https://forms.gle/3Yyk5AzMQ82LVTeh6
+</p>
+<p>
+  Planejamento de Carreira<br>
+  https://forms.gle/aYtUehwWXudEFLJZ7
+</p>
